@@ -4,118 +4,57 @@
 
 📍 Chandigarh, India
 
-I specialize in building scalable mobile applications using React Native, TypeScript, Redux Toolkit, React Query, Node.js, NestJS, and MongoDB.
-
-- 📱 5+ years of mobile app development experience
-- ⚛️ Expert in React Native ecosystem
-- 🚀 Building cross-platform iOS & Android applications
-- 🌱 Currently learning NestJS & Backend Development
+I'm passionate about building scalable mobile applications using React Native, TypeScript, Redux Toolkit, Node.js and NestJS.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 When I Code, I Rely On
 
-### Mobile Development
-React Native • JavaScript • TypeScript
-
-### State Management
-Redux Toolkit • Context API
-
-### API & Data
-Axios • React Query • REST APIs
-
-### Backend
-Node.js • NestJS • Express.js
-
-### Database
-MongoDB • Mongoose
-
-### Tools
-Git • GitHub • Firebase • AppCenter • Postman
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📧 StartMail Mobile App
-Enterprise email management application.
+### 📧 StartMail
+Enterprise email management application built with React Native.
 
-**Features**
-- Email Management
-- Push Notifications
-- Rich Text Editor
-- Attachment Handling
-- Dark Mode Support
-
-**Tech Stack**
-React Native • Redux Toolkit • TypeScript
-
----
-
-### 🎬 Reeload App
-
+### 🎬 Reeload
 Movie discovery and browsing platform.
 
-**Features**
-- Movie Listings
-- Search & Filters
-- Watchlist
-- Media Streaming Integration
-
-**Tech Stack**
-React Native • API Integration
-
----
+### 🏠 SmartStay PG
+PG & Room Booking Platform.
 
 ### 🚗 WiseDrive
+Vehicle information and management app.
 
-Vehicle information and tracking application.
-
-**Features**
-- Vehicle Details
-- User Dashboard
-- Real-time Data
-
----
-
-### 🏆 Sportunity App
-
-Sports tournament and community platform.
-
-**Features**
-- Tournament Management
-- Match Scheduling
-- Team Management
-- Score Tracking
-
----
-
-### 🏠 SmartStay PG Website
-
-PG and Room Booking Platform.
-
-**Tech Stack**
-Next.js • TypeScript
-
----
+### 🏆 Sportunity
+Sports community and tournament platform.
 
 ### 📍 Field Scouting
-
-Location based scouting and reporting solution.
-
----
-
-### 💊 Perfect Dose
-
-Healthcare and medication management application.
+Location based scouting application.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit6666&show_icons=true)
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit6666&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit6666&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit6666&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohit6666&theme=tokyonight)
 
 ---
 
